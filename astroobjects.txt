@@ -2,3 +2,4 @@ planets
 stars
 galaxies
 moons
+clusters
